@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.dll.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.pdb

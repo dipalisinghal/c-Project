@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.dll.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.pdb

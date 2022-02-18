@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.BusinessLayer.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.BusinessLayer.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.DataAccessLayer.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.Entities.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.Exception.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.DataAccessLayer.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.DataAccessLayer.dll.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.Entities.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.Entities.dll.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.Exception.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\bin\Debug\StudentPhoneBook.Exception.dll.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\obj\Debug\StudentPhoneBook.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\obj\Debug\StudentPhoneBook.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\obj\Debug\StudentPhoneBook.BusinessLayer.csproj.CopyComplete
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\obj\Debug\StudentPhoneBook.BusinessLayer.dll
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.BusinessLayer\obj\Debug\StudentPhoneBook.BusinessLayer.pdb
